@@ -18,7 +18,7 @@
 				<h1
 					class="font-black text-black lg:text-[80px] sm:text-[60px] xs:text-[50px] text-[40px] lg:leading-[98px] mt-2"
 				>
-					Skills
+					Experiences
 				</h1>
 			</div>
 		</TransitionRoot>
